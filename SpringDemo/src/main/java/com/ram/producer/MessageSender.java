@@ -1,3 +1,11 @@
+// SWE 645 Extra Credit Assignment - Implementation of Active MQ
+// Abhishek Veeravalli | G01391003
+// Anurag Peddi | G01394826
+// Bhaskar Praveen | G01382027
+// Ramya Sree Avula | G01395493
+// Aditee Gaddam | G01363937
+// Sanjana Govindu | G01380306
+
 package com.ram.producer;
 
 import javax.jms.JMSException;
