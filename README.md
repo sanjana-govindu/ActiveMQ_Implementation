@@ -24,3 +24,4 @@ Message Consumer class: This class is used for receiving messages from the queue
 - https://activemq.apache.org/producer-flow-control
 - https://www.tutorialspoint.com/apache_activemq/apache_activemq_consumer_application.htm
          
+VIDEO - https://drive.google.com/file/d/1tHoa-vPYWefaF3AbMgzwEl8Z65NAq0Z4/view?usp=sharing 
